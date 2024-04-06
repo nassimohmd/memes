@@ -1,4 +1,4 @@
-$color-primary: hsl(0, 0%, 90%);
+$color-primary: hsl(0, 0%, 90%); // Change this to your desired link color
 $color-text: hsl(0, 0%, 80%);
 $color-subtext: hsl(0, 0%, 70%);
 $color-border: hsl(0, 0%, 15%);
@@ -81,8 +81,17 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
-  color: $color-primary;
-  
+  color: $color-primary; // Change this to $color-primary
+  &:hover {
+    color: white !important;
+    background: #333333;
+  }
+  &:after {
+    position: relative;
+    top: -0.5em;
+    font-size: 0.7em;
+    content: "↗";
+    color: #aaaaaa;
   }
   &.internal-link:after,
   &.footnote:after,
