@@ -4,7 +4,7 @@ tags:
   - Cinema
   - thoughts
 ---
-Long time ago memes where fragile like our bodies itself. but as we found out that the fragility is only for the body but the genes lives on, modern memes are becoming more and more Anti-fragile. because we have a lot of space to store these data and the pressure on curation and selection is very low. hence [[Why I make Films]]
+Long time ago [[memes]] where fragile like our bodies itself. but as we found out that the fragility is only for the body but the genes lives on, modern memes are becoming more and more Anti-fragile. because we have a lot of space to store these data and the pressure on curation and selection is very low. hence [[Why I make Films]]
 
 A mind invests itself in a story it recognizes. The other story becomes part of your story. Or, to use the biological analogy: the other story infects your story. And from there goes on to infect other stories through your story — your self-expression. This reflexive infectious energy is what we've called mimesis
 

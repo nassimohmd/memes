@@ -51,44 +51,43 @@ A YOUTUBE COMMENT -
 ![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003543.png?raw=true)
 ## 1827 - Kaleidophone
 
-![[Pasted image 20221130003606.png]]
-![[Pasted image 20221130003613.png]]
-
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003606.png?raw=true)
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003613.png?raw=true)
 ## 1829 - Anorthoscope
-![[Pasted image 20221130003701.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003701.png?raw=true)
 
 ## 1833 - Phenakistoscope
-![[Pasted image 20221130003724.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003724.png?raw=true)
 
 ## 1833 - Stereoscope
-![[Pasted image 20221130003746.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003746.png?raw=true)
 
 ## 1834 - Zoetrope
-![[Pasted image 20221130003813.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003813.png?raw=true)
 
 ## 1853 - Anaglyph 3d
-![[Pasted image 20221130003845.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003845.png?raw=true)
 
 ## 1868 - Kineograph/ Flip Book
-![[Pasted image 20221130003904.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003904.png?raw=true)
 
 ## 1877 - Praxinoscope
-![[Pasted image 20221130003935.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003935.png?raw=true)
 
 ## 1879 - Zoopraxiscope
-![[Pasted image 20221130003952.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003952.png?raw=true)
 
 ## 1891 - Kinetoscope
-![[Pasted image 20221130004010.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130004010.png?raw=true)
 
 ## 1894 - Mutoscope
-![[Pasted image 20221130004024.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130004024.png?raw=true)
 
 ## 1895 - Cinematograph
-![[Pasted image 20221130004042.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130004042.png?raw=true)
 
 ## 1896 - Kinora
-![[Pasted image 20221130004057.png]]
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130004057.png?raw=true)
 
 
 Reference: [Link]()
