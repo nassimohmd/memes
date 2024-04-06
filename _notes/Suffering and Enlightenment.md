@@ -1,5 +1,5 @@
 ---
-title: Suffering
+title: Suffering and Enlightenment
 tags:
   - enlightenment
   - thoughts
