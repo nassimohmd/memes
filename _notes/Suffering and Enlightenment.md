@@ -4,7 +4,7 @@ tags:
   - enlightenment
   - thoughts
 ---
-Disclaimer: What I think or believe can be entirely wrong
+> Disclaimer: What I think or believe can be entirely wrong
 
 I've always felt the notion 'suffering makes you grow' as unfair.
 

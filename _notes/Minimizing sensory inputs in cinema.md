@@ -1,0 +1,6 @@
+---
+title: Minimizing sensory inputs in cinema
+---
+By not feeding the audience with sensory inputs, they are left with filling with their own perception, this is what causes a film to be personal!
+
+reference: (https://youtu.be/d6TMAxSc_b4?si=Xv412FJ-ZXqOMFeL)
