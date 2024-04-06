@@ -1,9 +1,9 @@
-$color-primary: hsl(0, 0%, 90%); // Change this to your desired link color
-$color-text: hsl(0, 0%, 80%);
-$color-subtext: hsl(0, 0%, 70%);
-$color-border: hsl(0, 0%, 15%);
-$color-box-background: hsl(0, 0%, 20%);
-$border-radius: 15px;
+$color-primary: hsl(0, 0%, 10%);
+$color-text: hsl(0, 0%, 20%);
+$color-subtext: hsl(0, 0%, 30%);
+$color-border: hsl(0, 0%, 85%);
+$color-box-background: mix($color-primary, white, 4%);
+$border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
@@ -17,7 +17,6 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
-  background-color: #121212;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -81,17 +80,17 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
-  color: $color-primary; // Change this to $color-primary
+  color: $color-primary;
   &:hover {
-    color: white !important;
-    background: #333333;
+    color: black !important;
+    background: #fffaf1;
   }
   &:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
-    color: #333333;
+    color: #aaaaaa;
   }
   &.internal-link:after,
   &.footnote:after,
@@ -101,8 +100,8 @@ a {
 }
 
 *:focus {
-  background: #333333 !important;
-  color: white !important;
+  background: #ffe8bc !important;
+  color: black !important;
 }
 
 nav {
@@ -123,13 +122,13 @@ nav {
 }
 
 .backlink-box {
-  background: #333333;
+  background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
 }
 
 code {
-  background: #333333;
+  background: #f5f5f5;
   padding: 0.1em 0.2em;
   border-radius: 4px;
 }
