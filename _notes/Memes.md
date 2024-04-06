@@ -1,5 +1,5 @@
 ---
-title: memes
+title: Memes
 tags:
 ---
 causal relation between meme censorship and replicability is known as the Streisand effect. It was named after the American actress who tried to hide a picture of her house only to draw greater attention to it. The Streisand effect is **a name for the phenomenon in which attempts to hide, censor, or prevent access to something have the opposite result**—the unintended consequence of drawing far more attention to that thing
