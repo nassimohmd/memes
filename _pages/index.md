@@ -16,7 +16,7 @@ permalink: /
   {% endfor %}
 </ul>
 
-<strong>All writings</strong>
+<strong>All memes</strong>
 
 <ul>
   {% assign all_notes = site.notes | sort: "title" %}
