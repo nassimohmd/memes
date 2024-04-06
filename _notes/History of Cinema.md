@@ -2,23 +2,21 @@
 title: History of Cinema
 tags:
 ---
-30-11-2022
-Status: #Research i
-Tags: [[Cinema]], [[Why I make Films]]
-
 In 1820, there was a dinner party. Mathematician Charles Babbage (the father of computer) was there with astronomer William Herschel (The guy who found  the Uranus).  Herschel asked Babbage a question. how can you see a two sides of the coin at same time. He answered his question by spinning the coin. the both sides blend together
 
 This idea got to hands of a Iirish dr, William Hentry Fitton. he created this
-![[Pasted image 20221130002509.png]]
+<img src="https://memesofnassim.netlify.app/assets/illu1.png"/>
+
+![[illu1.png]]
 
 
 One of the [[Cinematic Toys]] , Phenakistiscope 
-![[Pasted image 20221130002624.png]]
+![[illu2.png]]
 
 
 ## Chauvet cave, France. Earliest recorded motion picture creation
-![[Pasted image 20221130004702.png]]
-![[Pasted image 20221130004714.png]]
+![[illu3.png]]
+![[illu4.png]]
 
 # Scientific explanation of the Illusion
 Our brain sees longer than the eye does. this is what called [[Persistance of vision]].
