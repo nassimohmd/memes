@@ -1,0 +1,148 @@
+%7B%7B%20site.baseurl%20%7D%7D/assets/jazzyfrenchy.mp3:1     Failed to load resource: net::ERR_FILE_NOT_FOUND
+%7B%7B%20site.baseurl%20%7D%7D/assets/image.jpg:1     Failed to load resource: net::ERR_FILE_NOT_FOUND
+%7B%7B%20site.baseurl%20%7D%7D/assets/jazzyfrenchy.mp3:1     Failed to load resource: net::ERR_FILE_NOT_FOUND
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: Committed 8 files
+plugin:obsidian-git:45241 obsidian-git: Pulled 5 files from remote
+plugin:obsidian-git:44758 Pushing....
+plugin:obsidian-git:44761 Pushed! 8
+plugin:obsidian-git:45241 obsidian-git: Pushed 8 files to remote
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to push
+plugin:obsidian-git:45241 obsidian-git: Committed 1 file
+plugin:obsidian-git:45241 obsidian-git: Pulled 2 files from remote
+plugin:obsidian-git:44758 Pushing....
+plugin:obsidian-git:44761 Pushed! 1
+plugin:obsidian-git:45241 obsidian-git: Pushed 1 file to remote
+plugin:obsidian-git:45241 obsidian-git: Committed 1 file
+plugin:obsidian-git:44758 Pushing....
+plugin:obsidian-git:44761 Pushed! 1
+plugin:obsidian-git:45241 obsidian-git: Pushed 1 file to remote
+plugin:obsidian-git:45241 obsidian-git: Committed 1 file
+plugin:obsidian-git:44758 Pushing....
+plugin:obsidian-git:44761 Pushed! 1
+plugin:obsidian-git:45241 obsidian-git: Pushed 1 file to remote
+plugin:templater-obsidian:1951 Uncaught TypeError: Cannot set properties of undefined (setting 'value')
+    at eval (plugin:templater-obsidian:1951:35)
+    at HTMLDivElement.<anonymous> (app.js:1:1465660)
+plugin:templater-obsidian:1951 Uncaught TypeError: Cannot set properties of undefined (setting 'value')
+    at eval (plugin:templater-obsidian:1951:35)
+    at HTMLDivElement.<anonymous> (app.js:1:1465660)
+plugin:obsidian-git:45241 obsidian-git: Committed 1 file
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: Committed 1 file
+%7B%7B%20site.baseurl%20%7D%7D/assets/jazzyfrenchy.mp3:1     GET app://obsidian.md/%7B%7B%20site.baseurl%20%7D%7D/assets/jazzyfrenchy.mp3 net::ERR_FILE_NOT_FOUND
+%7B%7B%20site.baseurl%20%7D%7D/assets/image.jpg:1     GET app://obsidian.md/%7B%7B%20site.baseurl%20%7D%7D/assets/image.jpg net::ERR_FILE_NOT_FOUND
+Image (async)
+XM @ app.js:1
+t.initDOM @ app.js:1
+t.toDOM @ app.js:1
+t.sync @ app.js:1
+e.sync @ app.js:1
+t.sync @ app.js:1
+e.sync @ app.js:1
+(anonymous) @ app.js:1
+e.ignore @ app.js:1
+t.updateInner @ app.js:1
+t.update @ app.js:1
+e.measure @ app.js:1
+e.readMeasured @ app.js:1
+e.coordsAtPos @ app.js:1
+e.updateDom @ app.js:1
+r @ app.js:1
+(anonymous) @ node:internal/process/task_queues:140
+runInAsyncScope @ node:async_hooks:204
+runMicrotask @ node:internal/process/task_queues:137
+setInterval (async)
+e.setScrollSpeed @ app.js:1
+e.move @ app.js:1
+plugin:obsidian-git:45241 obsidian-git: Committed 1 file
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: No changes to commit
+plugin:obsidian-git:45241 obsidian-git: Committed 1 file
+plugin:obsidian-git:45237 git obsidian error: fatal: pathspec 'Go all the way.md' did not match any files
+
+node:internal/process/task_queues:95 Uncaught (in promise) Error: fatal: pathspec 'Go all the way.md' did not match any files
+
+    at Object.action (plugin:obsidian-git:29441:25)
+    at PluginStore.exec (plugin:obsidian-git:29466:25)
+    at eval (plugin:obsidian-git:26971:43)
+    at new Promise (<anonymous>)
+    at GitExecutorChain.handleTaskData (plugin:obsidian-git:26969:16)
+    at GitExecutorChain.eval (plugin:obsidian-git:26953:44)
+    at Generator.next (<anonymous>)
+    at fulfilled (plugin:obsidian-git:25798:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+action @ plugin:obsidian-git:29441
+exec @ plugin:obsidian-git:29466
+eval @ plugin:obsidian-git:26971
+handleTaskData @ plugin:obsidian-git:26969
+eval @ plugin:obsidian-git:26953
+fulfilled @ plugin:obsidian-git:25798
+processTicksAndRejections @ node:internal/process/task_queues:95
+plugin:obsidian-git:45241 obsidian-git: Unstaged Go all the way.md
+plugin:obsidian-git:45237 git obsidian error: fatal: pathspec 'Go all the way.md' did not match any files
+
+node:internal/process/task_queues:95 Uncaught (in promise) Error: fatal: pathspec 'Go all the way.md' did not match any files
+
+    at Object.action (plugin:obsidian-git:29441:25)
+    at PluginStore.exec (plugin:obsidian-git:29466:25)
+    at eval (plugin:obsidian-git:26971:43)
+    at new Promise (<anonymous>)
+    at GitExecutorChain.handleTaskData (plugin:obsidian-git:26969:16)
+    at GitExecutorChain.eval (plugin:obsidian-git:26953:44)
+    at Generator.next (<anonymous>)
+    at fulfilled (plugin:obsidian-git:25798:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+action @ plugin:obsidian-git:29441
+exec @ plugin:obsidian-git:29466
+eval @ plugin:obsidian-git:26971
+handleTaskData @ plugin:obsidian-git:26969
+eval @ plugin:obsidian-git:26953
+fulfilled @ plugin:obsidian-git:25798
+processTicksAndRejections @ node:internal/process/task_queues:95
+plugin:obsidian-git:45241 obsidian-git: Committed 1 file
