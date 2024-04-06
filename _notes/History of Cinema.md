@@ -47,9 +47,10 @@ A YOUTUBE COMMENT -
 
 ## Timeline of Victorian cinematic toys
 ## 1825 - Thaumatrope
-<img src="https://github.com/nassimohmd/memes/blob/main/assets/Pasted image 20221130003543.png">
 
+![](https://github.com/nassimohmd/memes/blob/main/assets/Pasted%20image%2020221130003543.png?raw=true)
 ## 1827 - Kaleidophone
+
 ![[Pasted image 20221130003606.png]]
 ![[Pasted image 20221130003613.png]]
 
