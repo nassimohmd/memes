@@ -16,6 +16,17 @@ permalink: /
   {% endfor %}
 </ul>
 
+<strong>All writings</strong>
+
+<ul>
+  {% assign all_notes = site.notes | sort: "title" %}
+  {% for note in all_notes %}
+    <li>
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <style>
   .wrapper {
     max-width: 46em;
