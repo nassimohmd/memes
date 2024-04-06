@@ -5,6 +5,8 @@ id: home
 permalink: /
 ---
 
+# My memes!
+
 <strong>Recently updated memes</strong>
 
 <ul>
